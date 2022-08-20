@@ -3,7 +3,7 @@
 I'm **Augusto Berwaldt**,  I'm a Software Engineer at Banco Inter, and I've been working in tech since 2011. 
 
 
-[![Linkedin: augustoberwaldt](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-berwaldt-32081761/)](https://www.linkedin.com/in/augusto-berwaldt-32081761/)
+[![Linkedin: augustoberwaldt](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-berwaldt/)](https://www.linkedin.com/in/augusto-berwaldt-32081761/)
 
 <!--
 **augustoberwaldt/augustoberwaldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
