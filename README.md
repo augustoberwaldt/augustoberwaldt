@@ -1,6 +1,6 @@
 ### Hi there 
 
-I'm **Augusto Berwaldt**,  I'm a Software Engineer at Banco Inter, and I've been working in tech since 2011. 
+I'm **Augusto Berwaldt**,  I'm a Software Engineer at Banco Inter, and I've been working in tech since 2011. My interests range from design to technology. I am also interested in web development, programming, devops, big data,  and Artificial Intelligence (IA).
 
 
 [![Linkedin: augustoberwaldt](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-berwaldt/)](https://www.linkedin.com/in/augusto-berwaldt-32081761/)
