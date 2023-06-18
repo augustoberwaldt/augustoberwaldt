@@ -6,10 +6,6 @@ I am Graduation in Systems Analysis and Development and Graduated Degree in Big 
 Master in Computer Science at the Federal University of Rio Grande do Sul.
 
 
-My interests range from design to technology. I am also interested in web development, programming, devops, big data,  and Artificial Intelligence (IA).
-My technical background is PHP(Back-end) Java, , JavaScript (Back-end/Front-end), currently working with Java anda Gollang; 
-
-
 [![Linkedin: augustoberwaldt](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-berwaldt/)](https://www.linkedin.com/in/augusto-berwaldt-32081761/)
 
 ### Github Stats  
