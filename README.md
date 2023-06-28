@@ -3,8 +3,8 @@
 I'm **Augusto Berwaldt**,  I'm a Software Engineer at Banco Inter, and I've been working in tech since 2011. 
 
 ### Academic Education
-- 🎓  I am Graduation in Systems Analysis and Development 
-- 🎓  Graduated Degree in Big Data Data Science
+- 🎓  I am Graduation in Systems Analysis and Development.
+- 🎓  Graduated Degree in Big Data Data Science at the Mackenzie.
 - 🎓  Master in Computer Science at the Federal University of Rio Grande do Sul.
 
 
