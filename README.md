@@ -10,7 +10,9 @@ I'm **Augusto Berwaldt**,  I'm a Software Engineer at Banco Inter, and I've been
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/augustoberwaldt/)](https://github.com/augustoberwaldt/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:augusto.berwaldt@gmail.com)
 [![Linkedin: augustoberwaldt](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-berwaldt/)](https://www.linkedin.com/in/augusto-berwaldt/)
+
   <a
     id="cy-effective-orcid-url"
     class="underline"
@@ -34,6 +36,11 @@ I'm **Augusto Berwaldt**,  I'm a Software Engineer at Banco Inter, and I've been
 
 #### Views  
 ![](https://komarev.com/ghpvc/?username=augustoberwaldt&color=blue)
+
+
+## 🐍 Snake Game
+![snake gif](https://github.com/eliseufesantos/eliseufesantos/blob/output/github-snake-dark.svg?palette=github-dark)
+
 
 <!--
 **augustoberwaldt/augustoberwaldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
