@@ -19,9 +19,17 @@ I'm **Augusto Berwaldt**,  I'm a Software Engineer at Banco Inter, and I've been
 
     
 ### Github Stats  
-![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=augustoberwaldt&show_icons=true&count_private=true)  
 
-![Github Readme Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoberwaldt)  
+<table>
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=augustoberwaldt&show_icons=true&theme=dark&count_private=true" /></td>
+    <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=augustoberwaldt&theme=dark&hide_border=false" alt="GitHub Streak"/></td>
+  </tr>
+   <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoberwaldt&theme=dark" alt="Github Readme Stats"/></td>
+   </tr>  
+ <table>
+
 
 
 ## 🐍 Snake Game
